@@ -1,3 +1,12 @@
+git init
+git remote add origin https://github.com/ucastr/update-javascript.git
+git push -u origin master
+
+git add *
+git commit -m 'mensagem'
+git push -u origin master
+
+
 # update-javascript
 
 Baseado nos tutorias do MDN
