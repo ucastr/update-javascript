@@ -1,10 +1,10 @@
-git init
-git remote add origin https://github.com/ucastr/update-javascript.git
-git push -u origin master
-
-git add *
-git commit -m 'mensagem'
-git push -u origin master
+git init </br>
+git remote add origin https://github.com/ucastr/update-javascript.git </br>
+git push -u origin master </br>
+</br>
+git add * </br>
+git commit -m 'mensagem' </br>
+git push -u origin master </br>
 
 
 # update-javascript
